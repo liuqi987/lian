@@ -1,0 +1,20 @@
+{
+  "name": "ssssss",
+  "version": "1.0.0",
+  "description": "克隆",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuqi987/lian.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuqi987/lian/issues"
+  },
+  "homepage": "https://github.com/liuqi987/lian#readme"
+}
